@@ -98,10 +98,9 @@ Full detail: [`00-Portfolio/Skills-Learned.md`](./00-Portfolio/Skills-Learned.md
 
 ## 📊 GitHub Stats
 
-<!-- Replace USERNAME below with your GitHub username once this repo is live -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Besumit00&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Besumit00&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Besumit00)
 
 ## 🎥 30-Day Fusion 360 Challenge
 
@@ -129,9 +128,9 @@ A focused, daily learning challenge documented alongside a companion **YouTube p
 
 ## 📬 Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) <!-- placeholder -->
-- **GitHub:** [github.com/your-username](https://github.com/your-username) <!-- placeholder -->
+- **Email:** sumit.0sahu2003@gmail.com
+- **LinkedIn:** [linkedin.com/in/sumit-sahu-10003040a](https://www.linkedin.com/in/sumit-sahu-10003040a)
+- **GitHub:** [github.com/Besumit00](https://github.com/Besumit00)
 
 ---
 
