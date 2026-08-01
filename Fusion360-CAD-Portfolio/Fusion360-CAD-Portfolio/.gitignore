@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fusion 360 temp/backup files
+*.f3d.bak
+*.f3d.lock
+~$*
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Large exported archives (keep repo lightweight — link externally if needed)
+*.zip
+*.7z
+
+# Local export scratch folders
+/export-temp/
+/_scratch/
+
+# Logs
+*.log
