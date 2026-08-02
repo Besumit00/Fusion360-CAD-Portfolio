@@ -48,7 +48,9 @@ A direct index of every project in this portfolio, grouped by category. Use this
 ## 🎥 30-Day Challenge (YouTube Companion Series)
 - [30-Day Challenge Overview & Progress Tracker](./30-Day-Challenge/README.md)
 - [Day 01 — 2x4 LEGO Brick](./30-Day-Challenge/Day-01/README.md)
-- Day-02 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
+- [Day 02 — Glass Beverage Bottle](./30-Day-Challenge/Day-02/README.md)
+- [Day 03 — Standard Paper Clip](./30-Day-Challenge/Day-03/README.md)
+- Day-04 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
 
 ---
 
