@@ -20,7 +20,7 @@ This section documents a focused **30-day daily learning challenge** in Fusion 3
 | Day | Project | Video | Status |
 |---|---|---|---|
 | 01 | [2x4 LEGO Brick](./Day-01/README.md) | _link pending_ | ✅ Complete |
-| 02 | _TBD_ | _link pending_ | ⬜ Not started |
+| 02 | [Glass Beverage Bottle](./Day-02/README.md) | _link pending_ | ✅ Complete |
 | 03 | _TBD_ | _link pending_ | ⬜ Not started |
 | ... | ... | ... | ... |
 | 30 | _TBD_ | _link pending_ | ⬜ Not started |
