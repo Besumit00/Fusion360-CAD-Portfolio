@@ -1,46 +1,59 @@
-# Day 05 — [Project Title Here]
+# Day 05 — 14-Cavity Ice Cube Tray
 
 > 🎥 YouTube: [Link to this day's video once published]
 
 ## Objective
-_What was I trying to learn or build on Day 05?_
+Model a 14-cavity ice cube tray, focusing on patterning a single tapered cavity feature across a grid and getting the draft angles right so the part would actually be moldable/de-moldable in real manufacturing.
 
 ## Skills Practiced
-_List the specific Fusion 360 tools/skills used today._
+- Sketch (single cavity profile with draft/taper built in)
+- Extrude Cut (single cavity)
+- Rectangular Pattern (arraying the cavity 2 rows x 7 columns = 14 cavities)
+- Fillet (softening cavity edges and tray rim)
+- Shell or wall-thickness-aware cavity depth control
 
 ## CAD Features Used
-_e.g. Sketch, Extrude, Fillet, Loft, Joints, etc._
+- Sketch
+- Extrude (Cut, for the cavities; base extrude for the tray body)
+- Rectangular Pattern
+- Fillet
 
 ## Challenges
-_What went wrong or was harder than expected?_
+Getting consistent draft angle on every cavity wall so cubes would actually pop out of a real mold (or a real silicone/plastic tray) — a cavity with vertical (0° draft) walls looks fine in CAD but would be very difficult to demold or release ice from in reality.
 
 ## How I Solved Them
-_How did I fix or work around it?_
+Built the single cavity profile with a deliberate taper (narrower at the bottom, wider at the top) from the very first sketch rather than trying to add draft afterward, then patterned that already-tapered feature across the grid — this guaranteed every cavity had identical, correct draft by construction rather than needing 14 individual fixes.
 
 ## Engineering Notes
-_Any design reasoning worth recording — why this approach over another?_
+Doing the draft angle *before* patterning (not after) was the key lesson here — patterning a feature that already has the right geometry is trivial, but trying to retroactively add draft to 14 already-patterned cavities would have meant editing the pattern's source feature anyway, so building it right the first time saved a redo.
 
 ## Manufacturing Considerations
-_Could this be 3D printed / machined / laser cut as designed? Any DFM notes?_
+Real ice trays like this are typically injection molded (rigid plastic) or compression/injection molded (silicone) — both processes require draft angles on every vertical face to allow the part to release from the mold cleanly, which is exactly why the cavity taper wasn't just a stylistic choice but a functional requirement modeled from the start.
 
 ## Material Suggestions
-_What real material would this part use if made?_
+Food-grade silicone (flexible, easy ice release by twisting) or food-grade polypropylene (rigid, traditional ice-tray material) would both be realistic choices depending on whether a flexible or rigid tray is intended.
 
 ## Improvements
-_What would I do differently next time?_
+Add a slight lip/pour spout at one end for easier water filling, and consider rounding the cavity bottoms (currently flat) to better match how consumer ice trays are usually shaped for easier ice release.
 
 ## Time Taken
-_Approx. time spent modeling today._
+_Add your actual time here_
 
 ## Final Images
-| View | Preview |
-|---|---|
-| Front View | `Images/front.png` |
-| Isometric View | `Images/isometric.png` |
-| Exploded View | `Images/exploded.png` |
+
+**Fusion 360 workspace view:**
+
+![14-Cavity Ice Cube Tray — Fusion 360 isometric view](./Images/isometric.png)
+
+**Clean render views:**
+
+![14-Cavity Ice Cube Tray — isometric render 1](./Images/isometric-render.png)
+
+![14-Cavity Ice Cube Tray — isometric render 2](./Images/isometric-render-2.png)
 
 ## Download Files
-- [Fusion 360 Native File](./CAD/Fusion360.f3d)
 - [STEP File](./CAD/Model.step)
-- [STL File](./CAD/Model.stl)
-- [Drawing PDF](./Drawings/Drawing.pdf)
+- [OBJ File](./CAD/Model.obj)
+- [MTL File](./CAD/Model.mtl)
+
+> Note: no native `.f3d` or `.stl` was provided for this day — add them here if you export them later.
