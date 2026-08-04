@@ -22,6 +22,9 @@ This section documents a focused **30-day daily learning challenge** in Fusion 3
 | 01 | [2x4 LEGO Brick](./Day-01/README.md) | _link pending_ | ✅ Complete |
 | 02 | [Glass Beverage Bottle](./Day-02/README.md) | _link pending_ | ✅ Complete |
 | 03 | [Standard Paper Clip](./Day-03/README.md) | _link pending_ | ✅ Complete |
+| 06 | [Standard Hex Nut](./Day-06/README.md) | _link pending_ | ✅ Complete |
+| 07 | [Personalized Bike Handlebar Grip](./Day-07/README.md) | _link pending_ | ✅ Complete |
+| 08 | [Wedge Door Stopper](./Day-08/README.md) | _link pending_ | ✅ Complete |
 | ... | ... | ... | ... |
 | 30 | _TBD_ | _link pending_ | ⬜ Not started |
 

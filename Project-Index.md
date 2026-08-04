@@ -50,7 +50,12 @@ A direct index of every project in this portfolio, grouped by category. Use this
 - [Day 01 — 2x4 LEGO Brick](./30-Day-Challenge/Day-01/README.md)
 - [Day 02 — Glass Beverage Bottle](./30-Day-Challenge/Day-02/README.md)
 - [Day 03 — Standard Paper Clip](./30-Day-Challenge/Day-03/README.md)
-- Day-04 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
+- [Day 04 — Complex Glass Bottle](./30-Day-Challenge/Day-04/README.md)
+- [Day 05 — 14-Cavity Ice Cube Tray](./30-Day-Challenge/Day-05/README.md)
+- [Day 06 — Standard Hex Nut](./30-Day-Challenge/Day-06/README.md)
+- [Day 07 — Personalized Bike Handlebar Grip](./30-Day-Challenge/Day-07/README.md)
+- [Day 08 — Wedge Door Stopper](./30-Day-Challenge/Day-08/README.md)
+- Day-09 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
 
 ---
 
