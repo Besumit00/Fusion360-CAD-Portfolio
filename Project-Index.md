@@ -55,7 +55,9 @@ A direct index of every project in this portfolio, grouped by category. Use this
 - [Day 06 — Standard Hex Nut](./30-Day-Challenge/Day-06/README.md)
 - [Day 07 — Personalized Bike Handlebar Grip](./30-Day-Challenge/Day-07/README.md)
 - [Day 08 — Wedge Door Stopper](./30-Day-Challenge/Day-08/README.md)
-- Day-09 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
+- [Day 09 — Standard Light Bulb](./30-Day-Challenge/Day-09/README.md)
+- [Day 10 — Google Pixel 3 Phone Case](./30-Day-Challenge/Day-10/README.md)
+- Day-11 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
 
 ---
 
