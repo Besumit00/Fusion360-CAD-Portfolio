@@ -25,6 +25,7 @@ This section documents a focused **30-day daily learning challenge** in Fusion 3
 | 06 | [Standard Hex Nut](./Day-06/README.md) | _link pending_ | ✅ Complete |
 | 07 | [Personalized Bike Handlebar Grip](./Day-07/README.md) | _link pending_ | ✅ Complete |
 | 08 | [Wedge Door Stopper](./Day-08/README.md) | _link pending_ | ✅ Complete |
+| 10 | [Google Pixel 3 Phone Case](./Day-10/README.md) | _link pending_ | ✅ Complete |
 | ... | ... | ... | ... |
 | 30 | _TBD_ | _link pending_ | ⬜ Not started |
 
