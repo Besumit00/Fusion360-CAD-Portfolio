@@ -107,7 +107,7 @@ Full detail: [`00-Portfolio/Skills-Learned.md`](./00-Portfolio/Skills-Learned.md
 
 A focused, daily learning challenge documented alongside a companion **YouTube playlist** — one build a day, each with its own CAD files, images, and full write-up.
 
-**Progress: 12 / 30 days complete** — most recent: Day 12, Screwdriver (multi-body modeling, revolve/sweep, ribbing pattern, per-body materials).
+**Progress: 13 / 30 days complete** — most recent: Day 13, Sketch Constraint Practice (dimensional & geometric constraints, fully-defined sketches).
 
 📁 [`30-Day-Challenge/`](./30-Day-Challenge/README.md) · 📺 YouTube playlist: _link pending_
 
