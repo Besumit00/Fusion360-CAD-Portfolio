@@ -1,33 +1,39 @@
-# Day 14 — [Project Title Here]
+# Day 14 — Sketch Constraint Practice II
 
 > 🎥 YouTube: [Link to this day's video once published]
 
 ## Objective
-_What was I trying to learn or build on Day 14?_
+Continue building sketch constraint discipline — this time focused on symmetry, pattern relationships, and mixing circular/polygon geometry within a single fully-defined sketch.
 
 ## Skills Practiced
-_List the specific Fusion 360 tools/skills used today._
+- Symmetric constraint (mirroring the two hexagon/circle clusters about the horizontal center line)
+- Concentric constraint (circle centered inside each hexagon)
+- Equal constraint (keeping both hexagon/circle clusters identical in size)
+- Point-to-point distance dimensioning from a shared center point
+- Working with a mix of construction geometry (centerlines) and profile geometry in one sketch
 
 ## CAD Features Used
-_e.g. Sketch, Extrude, Fillet, Loft, Joints, etc._
+Sketch, Dimension (linear + radial + diameter), Geometric Constraints (symmetric, concentric, equal), Construction Geometry
 
 ## Challenges
-_What went wrong or was harder than expected?_
+- Getting both hexagon/circle clusters to stay symmetric about the center line without over-constraining the sketch.
+- Placing the small Ø4 center hole exactly on the shared center point between both clusters.
+- Balancing the R17 hexagon size and its enclosed circle so they stayed concentric through edits.
 
 ## How I Solved Them
-_How did I fix or work around it?_
+Used a horizontal construction centerline through the sketch origin, then applied a symmetric constraint across it for the two hexagon clusters, followed by an equal constraint so editing one automatically updated the other. The center Ø4 hole was placed via a point-to-point dimension referencing the sketch origin rather than eyeballed.
 
 ## Engineering Notes
-_Any design reasoning worth recording — why this approach over another?_
+This exercise reinforced designing symmetric features off a single reference/centerline rather than dimensioning each side independently — a pattern that scales much better once a sketch needs to be edited later.
 
 ## Manufacturing Considerations
-_Could this be 3D printed / machined / laser cut as designed? Any DFM notes?_
+N/A — sketch-only exercise, no solid body produced today.
 
 ## Material Suggestions
-_What real material would this part use if made?_
+N/A
 
 ## Improvements
-_What would I do differently next time?_
+Could explore using an actual mirror feature (rather than a symmetric constraint) to compare how Fusion 360 handles editability differently between the two approaches.
 
 ## Time Taken
 _Approx. time spent modeling today._
@@ -35,12 +41,10 @@ _Approx. time spent modeling today._
 ## Final Images
 | View | Preview |
 |---|---|
-| Front View | `Images/front.png` |
-| Isometric View | `Images/isometric.png` |
-| Exploded View | `Images/exploded.png` |
+| Sketch View | ![Sketch View](Images/Isometric.png) |
 
 ## Download Files
-- [Fusion 360 Native File](./CAD/Fusion360.f3d)
 - [STEP File](./CAD/Model.step)
-- [STL File](./CAD/Model.stl)
-- [Drawing PDF](./Drawings/Drawing.pdf)
+
+## Reference
+Practice sketch adapted from a sketch-constraint worksheet (ProductDesignOnline.com), included in [`Drawings/`](./Drawings/) for reference.
