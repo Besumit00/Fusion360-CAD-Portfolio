@@ -43,7 +43,7 @@ _Approx. time spent modeling today._
 ## Final Images
 | View | Preview |
 |---|---|
-| Isometric View | `Images/Isometric.png` |
+| Isometric View | ![Isometric View](Images/Isometric.png) |
 
 ## Download Files
 - [STEP File](./CAD/Model.step)

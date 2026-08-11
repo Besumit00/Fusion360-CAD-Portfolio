@@ -17,7 +17,7 @@ I'm building this in public because I believe an engineer's portfolio should sho
 
 ## 👋 About Me
 
-I'm a Mechanical Engineering graduate from **Madhav Institute of Technology and Science (MITS), Gwalior**, currently building toward a career as a **Robotics Design Engineer**. My core toolset is Fusion 360 for mechanical design, paired with ROS2/URDF for bringing that design into robotics simulation and control.
+I'm an **AI and Robotics** student at **Madhav Institute of Technology and Science (MITS), Gwalior**, building toward a career as a **Robotics Design Engineer**. My core toolset is Fusion 360 for mechanical design, paired with ROS2/URDF for bringing that design into robotics simulation and control.
 
 Flagship projects driving this portfolio:
 - 🦾 A **6-DOF robotic arm** — full CAD design from individual links to a joint-driven assembly, structured for URDF export.
@@ -67,6 +67,7 @@ Fusion360-CAD-Portfolio/
 ├── 11-Personal-Redesigns/        → Reverse-engineered, improved products
 ├── 12-Robotics/                  → 🦾 Flagship robotics CAD projects
 ├── 30-Day-Challenge/             → 🎥 Daily Fusion 360 challenge (YouTube companion series)
+├── Machine-Design-Practice-Pack/ → 🔩 25-part mechanical practice set (Curtis Waguespack / KKMSoft)
 └── Resources/                    → Cheat sheets, notes, reference links
 ```
 
@@ -106,7 +107,17 @@ Full detail: [`00-Portfolio/Skills-Learned.md`](./00-Portfolio/Skills-Learned.md
 
 A focused, daily learning challenge documented alongside a companion **YouTube playlist** — one build a day, each with its own CAD files, images, and full write-up.
 
+**Progress: 12 / 30 days complete** — most recent: Day 12, Screwdriver (multi-body modeling, revolve/sweep, ribbing pattern, per-body materials).
+
 📁 [`30-Day-Challenge/`](./30-Day-Challenge/README.md) · 📺 YouTube playlist: _link pending_
+
+## 🔩 Machine Design Practice Pack
+
+A 25-part mechanical modeling practice set (reference geometry credited to **Curtis Waguespack / KKMSoft**), each part modeled independently in Fusion 360 with its own isometric renders, orthographic views, and write-up.
+
+**Progress: 3 / 25 parts documented** — Fixture Block (01), Gear Pump Body (06), and Dovetail Stop Guide (08) complete; Alignment Bracket (07) in progress.
+
+📁 [`Machine-Design-Practice-Pack/`](./Machine-Design-Practice-Pack/README.md)
 
 ## 🚀 Future Projects
 
