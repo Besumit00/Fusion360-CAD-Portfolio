@@ -58,7 +58,8 @@ A direct index of every project in this portfolio, grouped by category. Use this
 - [Day 09 — Standard Light Bulb](./30-Day-Challenge/Day-09/README.md)
 - [Day 10 — Google Pixel 3 Phone Case](./30-Day-Challenge/Day-10/README.md)
 - [Day 11 — Non-Slip Pet Food Bowl](./30-Day-Challenge/Day-11/README.md)
-- Day-12 → Day-30 folders live under [`30-Day-Challenge/`](./30-Day-Challenge/) — each gets its own index row here once completed.
+- [Day 12 — Screwdriver](./30-Day-Challenge/Day-12/README.md)
+
 
 ---
 
