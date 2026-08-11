@@ -1,33 +1,38 @@
-# Day 13 — [Project Title Here]
+# Day 13 — Sketch Constraint Practice
 
 > 🎥 YouTube: [Link to this day's video once published]
 
 ## Objective
-_What was I trying to learn or build on Day 13?_
+Practice fully constraining 2D sketches using a mix of dimensional and geometric constraints — no 3D modeling today, purely sketch discipline.
 
 ## Skills Practiced
-_List the specific Fusion 360 tools/skills used today._
+- Dimensional constraints (linear, angular)
+- Geometric constraints (concentric, tangent, parallel, perpendicular)
+- Constructing a rectangle with a fully concentric inscribed circle
+- Building an irregular multi-angle polygon from mixed length and angle dimensions
+- Getting a sketch to fully-constrained (no under/over-defined geometry)
 
 ## CAD Features Used
-_e.g. Sketch, Extrude, Fillet, Loft, Joints, etc._
+Sketch, Dimension (linear + angular), Geometric Constraints (concentric, parallel, perpendicular), Construction Geometry
 
 ## Challenges
-_What went wrong or was harder than expected?_
+- Fully constraining the multi-angle polygon (90 / 60 / 15 / 80 / 20 mm sides with 20°, 130°, and 35° angles) without over-constraining or leaving DOF unresolved.
+- Getting the circle centered exactly on the rectangle's center point rather than eyeballing it.
 
 ## How I Solved Them
-_How did I fix or work around it?_
+Added geometric constraints first (concentric point-to-point for the circle, parallel/perpendicular for the rectangle edges) before applying dimensions, so the sketch resolved cleanly rather than fighting between over-defined and under-defined states. Worked through the polygon one angle/length at a time, checking the constraint count against DOF after each addition.
 
 ## Engineering Notes
-_Any design reasoning worth recording — why this approach over another?_
+This day was a pure sketch-discipline exercise — the goal wasn't a finished part but a fully and cleanly constrained profile, which is the foundation every solid model in this portfolio depends on.
 
 ## Manufacturing Considerations
-_Could this be 3D printed / machined / laser cut as designed? Any DFM notes?_
+N/A — sketch-only exercise, no solid body produced today.
 
 ## Material Suggestions
-_What real material would this part use if made?_
+N/A
 
 ## Improvements
-_What would I do differently next time?_
+Could practice deriving the same polygon using fewer total constraints (relying more on symmetry/pattern constraints where geometry allows).
 
 ## Time Taken
 _Approx. time spent modeling today._
@@ -35,12 +40,7 @@ _Approx. time spent modeling today._
 ## Final Images
 | View | Preview |
 |---|---|
-| Front View | `Images/front.png` |
-| Isometric View | `Images/isometric.png` |
-| Exploded View | `Images/exploded.png` |
+| Sketch View | ![Sketch View](Images/Isometic.png) |
 
 ## Download Files
-- [Fusion 360 Native File](./CAD/Fusion360.f3d)
 - [STEP File](./CAD/Model.step)
-- [STL File](./CAD/Model.stl)
-- [Drawing PDF](./Drawings/Drawing.pdf)

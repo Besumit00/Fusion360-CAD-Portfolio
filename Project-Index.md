@@ -59,6 +59,7 @@ A direct index of every project in this portfolio, grouped by category. Use this
 - [Day 10 — Google Pixel 3 Phone Case](./30-Day-Challenge/Day-10/README.md)
 - [Day 11 — Non-Slip Pet Food Bowl](./30-Day-Challenge/Day-11/README.md)
 - [Day 12 — Screwdriver](./30-Day-Challenge/Day-12/README.md)
+- [Day 13 — Sketch Constraint Practice](./30-Day-Challenge/Day-13/README.md)
 
 
 ---
