@@ -1,33 +1,37 @@
-# Day 15 — [Project Title Here]
+# Day 15 — Painter's Tripod (Batch Print Array)
 
 > 🎥 YouTube: [Link to this day's video once published]
 
 ## Objective
-_What was I trying to learn or build on Day 15?_
+Design a single triangular tripod frame component, then pattern it into a full grid array optimized for printing many copies in a single 3D print job.
 
 ## Skills Practiced
-_List the specific Fusion 360 tools/skills used today._
+- Triangular truss/frame sketching with internal open webbing (hollow triangle profile)
+- Extrude with shell/open-frame geometry rather than a solid body
+- Rectangular pattern across two axes to array a single component into a full print-bed layout
+- Designing with build-plate real estate and print efficiency in mind, not just single-part geometry
 
 ## CAD Features Used
-_e.g. Sketch, Extrude, Fillet, Loft, Joints, etc._
+Sketch, Extrude, Shell/Open Profile, Rectangular Pattern (2-axis)
 
 ## Challenges
-_What went wrong or was harder than expected?_
+- Keeping consistent spacing between each tripod unit in the array so they don't touch or overlap on the print bed.
+- Making sure the rectangular pattern stayed parametric — editing the single source tripod should update every instance in the grid.
 
 ## How I Solved Them
-_How did I fix or work around it?_
+Built and fully validated one tripod unit first, then applied a 2-axis rectangular pattern referencing that single feature, with spacing set as a parameter so the whole grid's density can be tuned from one value.
 
 ## Engineering Notes
-_Any design reasoning worth recording — why this approach over another?_
+Designed around practical batch 3D printing — multiple identical small parts (like painter's tripod feet/legs) are often more efficient to print together in one job rather than one at a time, so the array itself was treated as part of the design problem, not just a display arrangement.
 
 ## Manufacturing Considerations
-_Could this be 3D printed / machined / laser cut as designed? Any DFM notes?_
+Intended for FDM 3D printing. Open triangular frame minimizes material use and print time per unit while keeping the tripod structurally sound. Spacing between units in the array should account for printer nozzle clearance and any brim/skirt settings.
 
 ## Material Suggestions
-_What real material would this part use if made?_
+PLA or PETG — sufficient rigidity for a lightweight painter's tripod frame without needing engineering-grade plastics.
 
 ## Improvements
-_What would I do differently next time?_
+Could parametrize wall thickness and add a interlocking/snap-fit detail so each printed frame connects directly into a full tripod assembly without extra fasteners.
 
 ## Time Taken
 _Approx. time spent modeling today._
@@ -35,12 +39,10 @@ _Approx. time spent modeling today._
 ## Final Images
 | View | Preview |
 |---|---|
-| Front View | `Images/front.png` |
-| Isometric View | `Images/isometric.png` |
-| Exploded View | `Images/exploded.png` |
+| Isometric View — Angle 1 | ![Isometric View 1](Images/Isometric.png) |
+| Isometric View — Angle 2 | ![Isometric View 2](Images/Isometric-2.png) |
 
 ## Download Files
-- [Fusion 360 Native File](./CAD/Fusion360.f3d)
 - [STEP File](./CAD/Model.step)
-- [STL File](./CAD/Model.stl)
-- [Drawing PDF](./Drawings/Drawing.pdf)
+- [OBJ File](./CAD/Model.obj)
+- [MTL File](./CAD/Model.mtl)
