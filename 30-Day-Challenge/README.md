@@ -30,10 +30,11 @@ This section documents a focused **30-day daily learning challenge** in Fusion 3
 | 13 | [Sketch Constraint Practice](./Day-13/README.md) | _link pending_ | ✅ Complete |
 | 14 | [Sketch Constraint Practice II](./Day-14/README.md) | _link pending_ | ✅ Complete |
 | 15 | [Painter's Tripod Batch Print Array](./Day-15/README.md) | _link pending_ | ✅ Complete |
+| 16 | [Auger](./Day-16/README.md) | _link pending_ | ✅ Complete |
 | ... | ... | ... | ... |
 | 30 | _TBD_ | _link pending_ | ⬜ Not started |
 
-> Update this table as each day is completed — swap ⬜ for ✅ and fill in the project name + video link. (Rows 04–05, 09, 11, 16–29 omitted here for brevity — copy the pattern above for each.)
+> Update this table as each day is completed — swap ⬜ for ✅ and fill in the project name + video link. (Rows 04–05, 09, 11, 17–29 omitted here for brevity — copy the pattern above for each.)
 
 ## Why This Lives Inside the Main Portfolio (Not a Separate Repo)
 

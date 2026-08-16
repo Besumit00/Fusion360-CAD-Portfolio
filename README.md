@@ -107,7 +107,7 @@ Full detail: [`00-Portfolio/Skills-Learned.md`](./00-Portfolio/Skills-Learned.md
 
 A focused, daily learning challenge documented alongside a companion **YouTube playlist** — one build a day, each with its own CAD files, images, and full write-up.
 
-**Progress: 15 / 30 days complete (halfway!)** — most recent: Day 15, Painter's Tripod Batch Print Array (rectangular patterning, print-optimized frame design).
+**Progress: 16 / 30 days complete** — most recent: Day 16, Auger (helical/coil-driven patterning, segmented shaft flighting).
 
 📁 [`30-Day-Challenge/`](./30-Day-Challenge/README.md) · 📺 YouTube playlist: _link pending_
 
