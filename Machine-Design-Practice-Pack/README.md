@@ -32,6 +32,20 @@ I'm including this here because working through a structured, professionally-des
 | 05 | Hopper Flange | ⬜ In progress |
 | 06 | Gear Pump Body | ✅ Complete |
 | 07 | Alignment Bracket | ⬜ In progress |
-| 08-25 | Remaining parts | Not yet started |
+| 08 | Dovetail Stop Guide | ✅ Complete |
+| 09 | Anchor Slide | ⬜ In progress |
+| 10-11 | Remaining parts | Not yet started |
+| 12 | Rachet Wheel | ⬜ In progress |
+| 13 | Truss Flange | ✅ Complete |
+| 14 | Flanged 90 Elbow | ⬜ In progress |
+| 15 | Alignment Catch | ⬜ In progress |
+| 16 | Mini Crank Case | ⬜ In progress |
+| 17 | Pinch Fit Cap | ⬜ In progress |
+| 18-19 | Remaining parts | Not yet started |
+| 20 | Pivot Arm | ⬜ In progress |
+| 21 | Fly Wheel | ⬜ In progress |
+| 22 | Elbow Piston | ⬜ In progress |
+| 23 | Support Base | ⬜ In progress |
+| 24-25 | Remaining parts | Not yet started |
 
 > Update this table as each part's README is written — swap ⬜ for ✅.
