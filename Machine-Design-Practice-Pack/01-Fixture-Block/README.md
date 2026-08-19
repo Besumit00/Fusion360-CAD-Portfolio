@@ -40,7 +40,9 @@ This part's dimensions and geometry come from a drawing sheet in a 25-part machi
 
 ## Final Images
 
-![Fixture Block — isometric render](./Images/isometric-render.png)
+![Fixture Block — isometric render](./Images/Isometric.png)
 
 ## Download Files
-_CAD files (STEP/F3D/STL) not yet uploaded for this part — add them to `CAD/` when available._
+- [Model.step](CAD/Model.step)
+- [Model.obj](CAD/Model.obj)
+- [Model.mtl](CAD/Model.mtl)
