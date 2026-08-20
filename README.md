@@ -115,7 +115,7 @@ A focused, daily learning challenge documented alongside a companion **YouTube p
 
 A 25-part mechanical modeling practice set (reference geometry credited to **Curtis Waguespack / KKMSoft**), each part modeled independently in Fusion 360 with its own isometric renders, orthographic views, and write-up.
 
-**Progress: 4 / 25 parts documented** — Fixture Block (01), Gear Pump Body (06), Dovetail Stop Guide (08), and Truss Flange (13) complete; several more folders in progress.
+**Progress: 5 / 25 parts documented** — Fixture Block (01), Valve Lifter (03), Gear Pump Body (06), Dovetail Stop Guide (08), and Truss Flange (13) complete; several more folders in progress.
 
 📁 [`Machine-Design-Practice-Pack/`](./Machine-Design-Practice-Pack/README.md)
 

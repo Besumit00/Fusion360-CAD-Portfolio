@@ -27,7 +27,7 @@ I'm including this here because working through a structured, professionally-des
 |---|---|---|
 | 01 | Fixture Block | ✅ Complete |
 | 02 | Mount Bracket | ⬜ In progress |
-| 03 | Valve Lifter | ⬜ In progress |
+| 03 | Valve Lifter | ✅ Complete |
 | 04 | Housing Fixture | ⬜ In progress |
 | 05 | Hopper Flange | ⬜ In progress |
 | 06 | Gear Pump Body | ✅ Complete |
