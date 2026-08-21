@@ -68,6 +68,7 @@ Fusion360-CAD-Portfolio/
 ├── 12-Robotics/                  → 🦾 Flagship robotics CAD projects
 ├── 30-Day-Challenge/             → 🎥 Daily Fusion 360 challenge (YouTube companion series)
 ├── Machine-Design-Practice-Pack/ → 🔩 25-part mechanical practice set (Curtis Waguespack / KKMSoft)
+├── CAD-Designs-Practice-Set/     → 📐 Mechanical practice drawings (CAD Designs / caddesigns.in)
 └── Resources/                    → Cheat sheets, notes, reference links
 ```
 
@@ -118,6 +119,14 @@ A 25-part mechanical modeling practice set (reference geometry credited to **Cur
 **Progress: 5 / 25 parts documented** — Fixture Block (01), Valve Lifter (03), Gear Pump Body (06), Dovetail Stop Guide (08), and Truss Flange (13) complete; several more folders in progress.
 
 📁 [`Machine-Design-Practice-Pack/`](./Machine-Design-Practice-Pack/README.md)
+
+## 📐 CAD Designs Practice Set
+
+A separate set of mechanical modeling exercises using free dimensioned practice drawings from **CAD Designs (caddesigns.in)** — full four-view drawings (front, side, section, isometric) modeled independently in Fusion 360.
+
+**Progress: 1 part documented** — Pivot Clevis Bracket (01) complete.
+
+📁 [`CAD-Designs-Practice-Set/`](./CAD-Designs-Practice-Set/README.md)
 
 ## 🚀 Future Projects
 
