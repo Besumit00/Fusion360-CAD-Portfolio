@@ -1,3 +1,11 @@
+# Professional Assessments
+
+This folder documents formal, client/company-issued CAD deliverables — timed skill assessments, take-home tests, or interview-stage design tasks — as distinct from my self-directed learning tracks elsewhere in this repo (30-Day Challenge, Machine Design Practice Pack, CAD Designs Practice Set).
+
+Each assessment gets its own entry below, showing the brief (in my own words, not the original assignment document), my modeling approach, and the final deliverables produced.
+
+---
+
 # Smart Desktop Air Purifier — CAD Skill Assessment
 
 **Context:** Completed as part of a timed CAD skill assessment during an internship/job application process. Modeled independently in Autodesk Fusion 360 by Sumit Sahu.

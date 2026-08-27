@@ -69,6 +69,7 @@ Fusion360-CAD-Portfolio/
 ├── 30-Day-Challenge/             → 🎥 Daily Fusion 360 challenge (YouTube companion series)
 ├── Machine-Design-Practice-Pack/ → 🔩 25-part mechanical practice set (Curtis Waguespack / KKMSoft)
 ├── CAD-Designs-Practice-Set/     → 📐 Mechanical practice drawings (CAD Designs / caddesigns.in)
+├── 13-Professional-Assessments/  → 🧪 Timed CAD skill assessments & interview design tasks
 └── Resources/                    → Cheat sheets, notes, reference links
 ```
 
@@ -127,6 +128,14 @@ A separate set of mechanical modeling exercises using free dimensioned practice 
 **Progress: 1 part documented** — Pivot Clevis Bracket (01) complete.
 
 📁 [`CAD-Designs-Practice-Set/`](./CAD-Designs-Practice-Set/README.md)
+
+## 🧪 Professional Assessments
+
+Formal, client/company-issued CAD deliverables — timed skill assessments and interview-stage design tasks, built under real deadline pressure from written specifications.
+
+**Completed:** Smart Desktop Air Purifier (enclosure design, parametric build, 8-view patent-style drawing set).
+
+📁 [`13-Professional-Assessments/`](./13-Professional-Assessments/README.md)
 
 ## 🚀 Future Projects
 
